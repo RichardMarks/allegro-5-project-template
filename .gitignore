@@ -1,0 +1,7 @@
+.DS_Store
+yarn.lock
+build/
+dist/
+lib/
+node_modules/
+.vscode/ipch/

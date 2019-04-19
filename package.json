@@ -1,0 +1,12 @@
+{
+  "name": "allegro-5-project-template",
+  "version": "1.0.0",
+  "description": "Allegro 5 Project Template",
+  "main": "src/main.cpp",
+  "author": "Richard Marks",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gulp": "3.9.1"
+  }
+}
